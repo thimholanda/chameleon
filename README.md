@@ -1,4 +1,6 @@
-This is a result of the project working througth Next Js:
+This is the result of the project working with Next Js:
+
+
 ![alt text](https://projects.thim.com.br/test/image.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
