@@ -4,7 +4,7 @@
 2. For the best possible performance, it is not recommended to use functions like "for" inside react components. Instead, it's better to use the "map" function.
 3. Each component needs to follow SOLID recommendations. In this case, each component can be separated with a responsibility.
 4. The active array must be a state "[activeUsers, setActiveUsers]" to reflect frontend changes.
-5. Instead of using "<div>" as component to click on, it's better to use anchor "<a>" or "<button>", like I did.
+5. Instead of using ```<div>``` as component to click on, it's better to use anchor ```<a>``` or ```<button>```, like I did.
 6. To compare dates, you cannot use strings, as you did when using an ISO date format.
 
 ## how would you do this differently if you were going to create this component from scratch?
